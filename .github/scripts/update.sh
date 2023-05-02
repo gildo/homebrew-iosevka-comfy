@@ -57,7 +57,7 @@ cask "font-iosevka-comfy" do
   version "${LATEST_TAG}"
   sha256 "${SHA256}"
 
-  url "https://github.com/ingorichter/homebrew-iosevka-comfy/releases/download/#{version}/iosevka-comfy.zip"
+  url "https://github.com/gildo/homebrew-iosevka-comfy/releases/download/#{version}/iosevka-comfy.zip"
   name "Iosevka Comfy"
   homepage "https://github.com/protesilaos/iosevka-comfy"
 
